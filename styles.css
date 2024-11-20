@@ -1,0 +1,24 @@
+.imperio {
+  background-color: red;
+}
+.rebelde {
+  background-color: blue;
+}
+#darth-vader {
+  font-size: 30px; /* Aumenta el tamaño de la letra */
+}
+#luke-skywalker {
+  font-style: italic; /* Pone el texto en itálica */
+}
+.soldado {
+  border: 3px dashed black; /* Borde de 3px con rayas */
+}
+.soldado {
+  letter-spacing: 3px; /* Aumenta el espacio entre letras */
+}
+.apoyo {
+  text-align: center; /* Centra el texto */
+}
+.nave {
+  text-transform: uppercase; /* Convierte todas las letras a mayúsculas */
+}
